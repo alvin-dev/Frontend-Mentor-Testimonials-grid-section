@@ -61,6 +61,7 @@ main{
 
 .testimonial h2{
   padding: 1rem 0 1rem 0;
+  opacity: 70%;
 }
 
 .testimonial p{
