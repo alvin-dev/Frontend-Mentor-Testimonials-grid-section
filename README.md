@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/alvin-dev/Frontend-Mentor-Testimonials-grid-section)
 - Live Site URL: [Add live site URL here](https://alvin-dev.github.io/Frontend-Mentor-Testimonials-grid-section/)
 
 ## My process
