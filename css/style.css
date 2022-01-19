@@ -46,11 +46,11 @@ main{
   align-items: center;
 }
 
-.header-card span{
+.header-card .name{
   padding-left: 1rem;
 }
 
-.header-card span p{
+.header-card .name p{
   opacity: 50%;
 }
 
